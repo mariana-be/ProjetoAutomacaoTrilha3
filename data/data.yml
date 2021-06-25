@@ -1,0 +1,8 @@
+#URL para acesso
+
+loja_virtual: 'https://magento.demo.webjumpdev.com/'
+cadastro_loja: 'http://demo-magento2.vuestorefront.io/'
+
+#Dados Login
+email:  'roni_cost@example.com'
+senha:  'roni_cost3@example.com'

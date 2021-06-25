@@ -1,0 +1,36 @@
+#Seletores da página
+
+#Conta Cadastrada
+email_cadastrado:    'input#email'
+senha_cadastrada:    'input#pass'
+logar_conta:         'button#send2'
+
+#Cadastro
+inserir_nome:        'input#firstname'
+inserir_sobrenome:   'input#lastname'
+inserir_email:       'input#email_address'
+inserir_senha:       'input#password'
+repetir_senha:       'input#password-confirmation'
+criar_conta:         'button[title="Create an Account"]'
+
+#Buscar Produto
+#buscar_produto:     'input#search'
+selecionar_imagem:   'img[alt="Radiant Tee"]'
+escolher_tamanho:    '#option-label-size-159-item-168'
+escolher_cor:        '#option-label-color-93-item-57'
+escolher_quantidade: 'input#qty' 
+adicionar_carrinho:  'button[title="Adicionar ao Carrinho"]'
+avançar_checkout:    'button[title="Avançar para o Checkout"]'
+
+#Finalizar Compra
+novo_endereço:      'button[class="action action-show-popup"]'
+endereço_rua:       'input[name="street[0]"]'
+endereço_país:      'option[value="BR"]'
+endereço_estado:    'option[value="508"]'
+endereço_cidade:    'input[name="city"]'
+endereço_cep:       'input[name="postcode"]'
+telefone:           'input[name="telephone"]'
+salvar_endereço:    'button[class="action primary action-save-address"]'
+selecionar_frete:   'input[class="radio"]'
+página_pagamento:   'button[class="button action continue primary"]'
+finalizar_compra:   'button[title="Finalizar Pedido"]'

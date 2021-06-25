@@ -1,0 +1,5 @@
+default:  -p html -p bdd -p json --publish-quiet
+bdd:      --format pretty
+dot:      --format progress
+html:     --format html --out=data/report.html
+json:     --format json --out=data/report.json
